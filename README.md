@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Renato! 😄
+
+## I'm a Developer!
+
+### You can find me on
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatoor/)](https://www.linkedin.com/in/renatoor/)
 
 <!--
 **renatopcinfo/renatopcinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
