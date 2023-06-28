@@ -6,6 +6,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatoor/)](https://www.linkedin.com/in/renatoor/)
 
+![Renato Rodrigues Status](https://github-readme-stats.vercel.app/api?username=renatopcinfo&show_icons=true)
+
 <!--
 **renatopcinfo/renatopcinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
