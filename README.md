@@ -6,7 +6,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatoor/)](https://www.linkedin.com/in/renatoor/)
 
-![Renato Rodrigues Status](https://github-readme-stats.vercel.app/api?username=renatopcinfo&show_icons=true)
+<!--![Renato Rodrigues Status](https://github-readme-stats.vercel.app/api?username=renatopcinfo&show_icons=true)
+-->
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=renatopcinfo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
